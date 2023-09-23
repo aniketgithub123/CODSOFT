@@ -1,5 +1,5 @@
 # Task-1 : TITANIC SURVIVAL PREDICTION
-✓ Titanic dataset is used to build a model that predicts whether a passenger on the Titanic survived or not.The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived
+Titanic dataset is used to build a model that predicts whether a passenger on the Titanic survived or not.The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived
 # Task-3 : IRIS FLOWER CLASSIFICATION
 The Iris flower dataset consists of three species: setosa, versicolor,
 and virginica.Iris dataset is used to develop a model that can classify iris
